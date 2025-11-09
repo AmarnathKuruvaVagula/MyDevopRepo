@@ -4,6 +4,7 @@ Yes, java is platform independent because of it's WORA principle.
 java compiler execute programs and convert it into byte and this byte code independent.
 
 2.What are the top Java Features?
+X=20
 simple to understand.
 object oriented programming language.
 security.
@@ -22,3 +23,4 @@ JIT stands for java in time compiler, it is part of JRE.
 and it is responsible for converting byte code into specific machine code.
 it is used for better performance application at run time.
 >>>>>>> Stashed changes
+Adding code for merge conflicts.
