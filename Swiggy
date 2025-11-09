@@ -10,8 +10,15 @@ security.
 interpreted language as well as compiler language.
 platform independent.
 
+<<<<<<< Updated upstream
 #DEV2
 3. What is JVM?
 JVM stands for java virtual machine, it is responsible to execute byte code and convert it to native machine code.
 JVM is platform dependent because it is different for different operating system.
 it plays vital role by making java independent.
+=======
+4. What is JIT?
+JIT stands for java in time compiler, it is part of JRE.
+and it is responsible for converting byte code into specific machine code.
+it is used for better performance application at run time.
+>>>>>>> Stashed changes
