@@ -4,7 +4,11 @@ Yes, java is platform independent because of it's WORA principle.
 java compiler execute programs and convert it into byte and this byte code independent.
 
 2.What are the top Java Features?
+<<<<<<< Updated upstream
 X=20
+=======
+X=25
+>>>>>>> Stashed changes
 simple to understand.
 object oriented programming language.
 security.
